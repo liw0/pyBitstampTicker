@@ -1,4 +1,4 @@
 pyBitstampTicker
 ================
 
-a very simple python bitstamp ticker
+a very simple python bitstamp ticker using json
